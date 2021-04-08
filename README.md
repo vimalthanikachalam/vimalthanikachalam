@@ -53,7 +53,7 @@ const skills =
   databases :[Firebase, MongoDB],
 
   platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
-  Github Pages, Netlify, DigitalOcean],
+  Github Pages, Netlify, DigitalOcean, Vercel],
 
 }
 
