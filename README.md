@@ -84,6 +84,6 @@ while(dev.isCoding() && dev.isStuck())
 - ✝️ Commited to Christianity.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
--👀 Idhula enna perumai, get out – What’s there to gloat about in this, get out!  😁
+-👀 Idhula enna perumai– What’s there to gloat about in this!  😁
 
 - 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
