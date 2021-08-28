@@ -77,11 +77,13 @@ while(dev.isCoding() && dev.isStuck())
 - 📚 I’m currently studying MCA and pursuing various course on udemy.
 - 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
 - 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
-- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourite!
+- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourites!
 - 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
 - ✈ Been to Dubai!
 - 😇 My Bucket list is to Visit : Venice & Sydney.
 - ✝️ Commited to Christianity.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
+
+-👀 Idhula enna perumai, get out – What’s there to gloat about in this, get out!  😁
 
 - 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
