@@ -8,15 +8,6 @@
 
 <h3 align="right">Connect with me :</h3>
 
-<a href="https://www.facebook.com/vimaleurakaa/" target="_blank">
-  <img align="right" alt="Vimal - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
-<a href="https://twitter.com/Vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
-</a>
-<a href="https://www.behance.net/vimaleuraka" target="_blank">
-  <img align="right"  alt="Vimal - Behance" src="https://img.icons8.com/color/48/000000/behance.png" width="22px">
-</a>
 <a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
   <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
