@@ -73,4 +73,3 @@ while(dev.isCoding() && dev.isStuck())
 
 -👀 Idhula enna perumai– What’s there to gloat about in this!  😁
 
-- 📫 How to reach me: You can e-mail me at vimaleurakaa@gmail.com
