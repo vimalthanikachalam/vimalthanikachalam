@@ -7,10 +7,6 @@
 </p>
 
 <h3 align="right">Connect with me :</h3>
-
-<a href="https://www.instagram.com/vimaleurakaa/" target="_blank">
-  <img align="right" alt="Vimal - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
 <a href="https://codepen.io/vimaleurakaa" target="_blank">
   <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
 </a>
