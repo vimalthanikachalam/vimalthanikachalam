@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimaleurakaa&color=brightgreen" alt="vimaleurakaa" /> </p><br>
 <h2 align="center">Hi 👋, I'm Vimal Thanikachalam</h2>
-<p align="center">Courteous and enthusiastic, I am interested in IT and everything in its orbit. I recently began to be fascinated by web programming, e.g. developing Web Apps and building websites.</p>
+<p align="center">I'm a Software Developer with a superior experience, specializing in user interface design, application development, data security, and continuous improvement. Adept at identifying opportunities to enhance the user experience and develop new features to improve app functionality.</p>
 
 <p align="center">
 <br><img src="https://github.com/vimaleurakaa/vimaleurakaa/blob/main/dev.gif" width="280px"><br><br>
@@ -22,14 +22,14 @@ document.write("Hello World");
 
 let status =
 {
-  skills : [React, Redux, JavaScript Sass Jquery & Firebase],
-  learning: [React Advanced, TypeScript, React Native, MongoDB, NodeJS, ExpressJS, SparkAR],
+  skills : [React, Redux, TypeScript, JavaScript Sass Jquery & Firebase],
+  learning: [React Advanced, TypeScript Advanced, MongoDB, NodeJS, ExpressJS, SparkAR],
   interests: [Open Source Contribution, Research, Games, Unity, Ar - Vr]
 }
 
 const skills =
 {
-  languages :[JavaScript, Html, Css, CSharp, Php, Java],
+  languages :[TypeScript, JavaScript, Html, Css, CSharp, Php, Java],
 
   ide       :[Vs Code, Eclipse, WebStorm, Visual Studio, Android Studio, Sublime, Notepad++],
 
@@ -37,7 +37,7 @@ const skills =
 
   frameworks:[React Js, Node Js, Vue Js, Bootstrap, Ionic, Framework7, ReactStrap, MaterialUI],
 
-  databases :[Firebase, MongoDB],
+  databases :[Firebase, MongoDB, SQL],
 
   platforms :[Firebase, Google Cloud Platform, Heroku, Amazon Web Services,
   Github Pages, Netlify, DigitalOcean, Vercel],
@@ -61,14 +61,13 @@ while(dev.isCoding() && dev.isStuck())
 
 ---
 
-- 📚 I’m currently studying MCA and pursuing various course on udemy.
+- 📚 Completed MCA and pursuing various course on udemy.
 - 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
 - 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
 - ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourites!
 - 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
 - ✈ Been to Dubai!
 - 😇 My Bucket list is to Visit : Venice & Sydney.
-- ✝️ Commited to Christianity.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
 -👀 Idhula enna perumai– What’s there to gloat about in this!  😁
