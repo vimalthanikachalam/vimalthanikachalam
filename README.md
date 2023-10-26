@@ -61,13 +61,12 @@ while(dev.isCoding() && dev.isStuck())
 
 ---
 
-- 📚 Completed MCA and pursuing various course on udemy.
-- 👨‍💻 Fulltime programmer, Part-time Gamer.. Basically a Geek. but dont worry im totally extrovert.
-- 🌱 I’m currently learning react advanced, mongo db, and many popular libraries and more.
-- ⚡ Gaming means a lot to me. I Play Tactical FPS Games, Valorant & CSGO are my favourites!
-- 💬 Ask me anything about K-dramas, K-POP and Places to eat 😉.
+- 📚 Pursuing M.Tech. Artificial Intelligence and Machine Learning and pursuing various courses at Udemy.
+- 👨‍💻 Fulltime programmer, Part-time Gamer. Basically a Geek. but don't worry im totally extroverted.
+- 🌱 I’m currently learning React Advanced, Mongo DB, and many popular libraries and more.
+- ⚡ I Play Tactical FPS Games, Valorant & CSGO are my favorites!
 - ✈ Been to Dubai!
-- 😇 My Bucket list is to Visit : Venice & Sydney.
+- 😇 My Bucket list is to Visit: Venice & Sydney.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
 -👀 Idhula enna perumai– What’s there to gloat about in this!  😁
