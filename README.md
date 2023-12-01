@@ -6,12 +6,9 @@
 <br><img src="https://github.com/vimaleurakaa/vimaleurakaa/blob/main/dev.gif" width="280px"><br><br>
 </p>
 
-<h3 align="right">Connect with me :</h3>
 <a href="https://codepen.io/vimaleurakaa" target="_blank">
-  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/000000/codepen.png"/>
-</a>
-<a href="https://www.linkedin.com/in/vimaleuraka/" target="_blank">
-  <img align="right" alt="Vimal - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+  <img align="right" alt="Vimal - Codepen" width="22px" src="https://img.icons8.com/windows/64/4bc222/codepen.png"/>
+
 </a>
 <br/>
 <br/>
@@ -62,12 +59,10 @@ while(dev.isCoding() && dev.isStuck())
 ---
 
 - 📚 Pursuing M.Tech. Artificial Intelligence and Machine Learning and pursuing various courses at Udemy.
-- 👨‍💻 Fulltime programmer, Part-time Gamer. Basically a Geek. but don't worry im totally extroverted.
-- 🌱 I’m currently learning React Advanced, Mongo DB, and many popular libraries and more.
-- ⚡ I Play Tactical FPS Games, Valorant & CSGO are my favorites!
+- 🌱 I’m currently learning .Net SQL, Mongo DB, and many popular frameworks,libraries and more.
 - ✈ Been to Dubai!
 - 😇 My Bucket list is to Visit: Venice & Sydney.
 - 🌎 I love meeting diverse individuals around the world, so if you want to connect, feel free to reach out & introduce yourself (don’t just say hi, tell me about yourself!)
 
--👀 Idhula enna perumai– What’s there to gloat about in this!  😁
+-👀 Idhula enna perumai– 😁
 
