@@ -19,7 +19,7 @@ document.write("Hello World");
 
 let status =
 {
-  skills : [React, TypeScript, JavaScript, Sass, Jquery, Firebase, .NetCore, SQL, NodeJS, ExpressJS, RTK, PWA],
+  skills : [React, React Native, TypeScript, JavaScript, Sass, Jquery, Firebase, .NetCore, SQL, NodeJS, ExpressJS, RTK, PWA],
   learning: [MongoDB, PostgreSQL, GraphQL, ORM, Webhooks, Cron Services, Payment integration channels],
   interests: [Open Source Contribution, Research, Games, Unity, AR/VR]
 }
